@@ -79,13 +79,63 @@ main{
 }
 .section-tittle{
     text-align: center;
-    margin-bottom: 30px;
+   margin-bottom: 30px;
     font-size: 35px;
+ 
 
 }
+.ssed{
+    color: #757575;
+    font-size: 18px;
+    margin-bottom: 80px;
+}
+
 .section-description{
     color: #757575;
     font-size: 18px;
     margin-bottom: 30px;
 
+
+}
+
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.info-tittle{
+    font-size: 20px;
+    color: #757575;
+}
+.info-description{
+    font-weight: 700;
+    font-size: 20px;
+    color: #474747;
+}
+.what-i-do{
+ 
+    margin-top:20px;
+    background: white;
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+}
+
+.skill-container{
+    display: flex;
+    gap: 24px;
+}
+.skill-tittle{
+    font-weight:700;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.skill-description{
+    color: #757575;
+}
+.skill{
+    background: whitesmoke;
+    box-shadow: 0px 6px 50px white);
+    border-radius: 5px;
+    padding: 30px;
 }
