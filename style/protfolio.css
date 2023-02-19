@@ -33,8 +33,24 @@ nav ul{
     padding: 18px 35px;
     border-radius: 5px;
     background: orange;
+   
 
  
+}
+ .phn{
+    height: 64px;
+    color: orange;
+    font-weight: 700;
+    font-size: 20px;
+    border: 15px;
+    padding: 18px 35px;
+    border-radius: 10px;
+    background: whitesmoke;
+    
+    
+}
+.cv .phn{
+    margin-left: 60px;
 }
 .banner{
     display: flex;
@@ -56,6 +72,7 @@ nav ul{
     color: black;
     font-size: 18px;
     margin-bottom: 30px;
+   
 }
 
 .headers{
